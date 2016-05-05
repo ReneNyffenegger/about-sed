@@ -1,0 +1,1 @@
+sed '/^$/d' testfiles/lorem-ipsum-dolor
