@@ -1,0 +1,8 @@
+echo "Start with line one, delete every 3rd line"
+sed '1~3d' testfiles/delete-every-3rd-line.txt
+
+
+echo "
+
+Start with line three, delete every 3rd line"
+sed '3~3d' testfiles/delete-every-3rd-line.txt
