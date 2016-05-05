@@ -1,0 +1,4 @@
+#
+#  Compare with → insert-line-before
+#
+sed '/rebus/a >>>This line is inserted AFTER the line containing "rebus"<<<' testfiles/lorem-ipsum-dolor

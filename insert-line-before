@@ -1,1 +1,4 @@
+#
+#  Compare with → insert-line-after
+#
 sed '/rebus/i >>>This line is inserted BEFORE the line containing "rebus"<<<' testfiles/lorem-ipsum-dolor
