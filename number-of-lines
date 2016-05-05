@@ -1,0 +1,4 @@
+#
+#  Compare with → linenumber
+#
+sed -n '$=' testfiles/lorem-ipsum-dolor

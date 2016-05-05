@@ -1,1 +1,4 @@
+#
+#  Compare with → number-of-lines
+#
 sed '=' testfiles/lorem-ipsum-dolor
