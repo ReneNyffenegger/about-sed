@@ -1,0 +1,4 @@
+# v -> V
+# c -> C
+# i -> I
+sed 'y/vci/VCI/' testfiles/lorem-ipsum-dolor
