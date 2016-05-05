@@ -1,0 +1,1 @@
+sed '5d' testfiles/word-pairs
