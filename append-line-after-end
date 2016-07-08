@@ -1,0 +1,1 @@
+sed '$ a APPENDED AS LAST LINE' testfiles/lorem-ipsum-dolor
