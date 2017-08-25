@@ -1,4 +1,4 @@
 #
-#  Compare with → insert-line-before
+#  Compare with → insert-line-before and → insert-line-at-beginning
 #
 sed '/rebus/a >>>This line is inserted AFTER the line containing "rebus"<<<' testfiles/lorem-ipsum-dolor
