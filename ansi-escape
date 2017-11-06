@@ -1,0 +1,4 @@
+sed 's/RED/\x1B[31m/g;
+     s/GRN/\x1B[32m/g;
+     s/YLW/\x1B[33m/g;
+     s/END/\x1B[0m/g' testfiles/colorize
