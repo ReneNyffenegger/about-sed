@@ -1,0 +1,1 @@
+sed -n '/ee/,/ix/p' testfiles/word-pairs
