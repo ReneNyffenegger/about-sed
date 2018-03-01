@@ -1,0 +1,4 @@
+sed -e '/^rm a-file/ {
+  s@^@# @;
+  a rm another-file
+}' testfiles/script

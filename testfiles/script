@@ -1,0 +1,5 @@
+echo "This is a script"
+sleep 1
+rm a-file
+sleep 1;
+echo "script finished"
